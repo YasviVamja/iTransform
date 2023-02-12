@@ -1,0 +1,15 @@
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\Assignment 1.csproj.AssemblyReference.cache
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\Assignment 1.AssemblyInfoInputs.cache
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\Assignment 1.AssemblyInfo.cs
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\Assignment 1.csproj.CoreCompileInputs.cache
+D:\111 Training\Code\CSharp-dotnet part 1\bin\Debug\net6.0\Assignment 1.exe
+D:\111 Training\Code\CSharp-dotnet part 1\bin\Debug\net6.0\Assignment 1.deps.json
+D:\111 Training\Code\CSharp-dotnet part 1\bin\Debug\net6.0\Assignment 1.runtimeconfig.json
+D:\111 Training\Code\CSharp-dotnet part 1\bin\Debug\net6.0\Assignment 1.dll
+D:\111 Training\Code\CSharp-dotnet part 1\bin\Debug\net6.0\Assignment 1.pdb
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\Assignment 1.dll
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\refint\Assignment 1.dll
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\Assignment 1.pdb
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\Assignment 1.genruntimeconfig.cache
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\ref\Assignment 1.dll
