@@ -1,0 +1,5 @@
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\CSharp-dotnet part1.csproj.AssemblyReference.cache
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\CSharp-dotnet part1.GeneratedMSBuildEditorConfig.editorconfig
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\CSharp-dotnet part1.AssemblyInfoInputs.cache
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\CSharp-dotnet part1.AssemblyInfo.cs
+D:\111 Training\Code\CSharp-dotnet part 1\obj\Debug\net6.0\CSharp-dotnet part1.csproj.CoreCompileInputs.cache
