@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Assignment4
+namespace Assignment5
 {
     class Employee
     {
@@ -26,9 +26,9 @@ namespace Assignment4
             return "Emp id = " + this.EmployeeID + " \t Emp Name = " + this.Name;
         }
     }
-    internal class Assig4_2
+    internal class Assig5_2
     {
-        public static void ArrayListClass()
+        public static void MainExecution()
         {
             Employee emp1= new Employee();
             Employee emp2= new Employee();

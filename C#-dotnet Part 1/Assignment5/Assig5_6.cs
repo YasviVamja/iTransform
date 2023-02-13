@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment4
+namespace Assignment5
 {
     public class Player
     {
@@ -58,9 +58,10 @@ namespace Assignment4
         //    throw new NotImplementedException();
         //}
     }
-    class Assig4_6
+    class Assig5_6
     {
-        public static void IndiaTeamMethod1() {
+        public static void MainExecution()
+        {
             Player p1 = new Player() { Name = "Name1", Run = 100 };
             Player p2 = new Player() { Name = "Name2", Run = 50 };
             Player p3 = new Player() { Name = "Name3", Run = 80 };

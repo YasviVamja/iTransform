@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment4
+namespace Assignment5
 {
-    internal class Assig4_1
+    internal class Assig5_1
     {
-        public static void ArrayClass()
+        public static void MainExecution()
         {
             Console.WriteLine("int Array Operation......\n");
             Array intArray = Array.CreateInstance(typeof(Int32),5);

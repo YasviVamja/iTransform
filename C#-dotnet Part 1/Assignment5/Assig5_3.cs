@@ -5,11 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-namespace Assignment4
+namespace Assignment5
 {
-    internal class Assig4_3
+    internal class Assig5_3
     {
-        public static void LinkedListClass()
+        public static void MainExecution()
         {
             Employee emp1 = new Employee();
             Employee emp2 = new Employee();

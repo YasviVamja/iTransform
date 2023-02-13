@@ -5,11 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment4
+namespace Assignment5
 {
-    internal class Assig4_4
+    internal class Assig5_4
     {
-        public static void StackClass()
+        public static void MainExecution()
         {
             Employee emp1 = new Employee();
             Employee emp2 = new Employee();

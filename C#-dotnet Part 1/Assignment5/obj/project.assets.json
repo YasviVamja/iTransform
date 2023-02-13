@@ -250,9 +250,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\111 Training\\Code\\Assignment4\\Assignment4.csproj",
-      "projectName": "Assignment4",
-      "projectPath": "D:\\111 Training\\Code\\Assignment4\\Assignment4.csproj",
+      "projectUniqueName": "D:\\111 Training\\Code\\Assignment4\\Assignment5.csproj",
+      "projectName": "Assignment5",
+      "projectPath": "D:\\111 Training\\Code\\Assignment4\\Assignment5.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "D:\\111 Training\\Code\\Assignment4\\obj\\",
       "projectStyle": "PackageReference",

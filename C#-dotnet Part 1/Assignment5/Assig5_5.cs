@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment4
+namespace Assignment5
 {
-    internal class Assig4_5
+    internal class Assig5_5
     {
-        public static void FindByNameListClass()
+        public static void MainExecution()
         {
             Employee emp1 = new Employee();
             Employee emp2 = new Employee();
