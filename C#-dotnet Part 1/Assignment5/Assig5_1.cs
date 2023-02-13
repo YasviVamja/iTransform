@@ -11,10 +11,10 @@ namespace Assignment5
         public static void MainExecution()
         {
             Console.WriteLine("int Array Operation......\n");
-            Array intArray = Array.CreateInstance(typeof(Int32),5);
-            for (int i = intArray.GetUpperBound(0); i >= intArray.GetLowerBound(0); i--)   
+            Array intArray = Array.CreateInstance(typeof(Int32), 5);
+            for (int i = intArray.GetUpperBound(0); i >= intArray.GetLowerBound(0); i--)
             {
-                intArray.SetValue((i * 10),i);
+                intArray.SetValue((i * 10), i);
             }
 
             Console.WriteLine();
@@ -25,12 +25,12 @@ namespace Assignment5
             }
 
             Console.WriteLine();
-            Array newIntArray= Array.CreateInstance(typeof(Int32),3);
-            Array.Copy(intArray,newIntArray,3);
+            Array newIntArray = Array.CreateInstance(typeof(Int32), 3);
+            Array.Copy(intArray, newIntArray, 3);
             Console.WriteLine("Array of interger copied is :");
             foreach (int ival in newIntArray)
             {
-                Console.Write(ival+" ");
+                Console.Write(ival + " ");
             }
 
             Console.WriteLine();
@@ -97,7 +97,7 @@ namespace Assignment5
             }
 
             Console.WriteLine();
-            Array.Clear(stringArray,0,1);
+            Array.Clear(stringArray, 0, 1);
             Console.WriteLine("Array of string after using Clear(stringArray,0,1) is :");
             foreach (string ival in stringArray)
             {

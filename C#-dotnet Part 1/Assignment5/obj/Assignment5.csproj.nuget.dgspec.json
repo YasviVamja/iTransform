@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\111 Training\\Code\\Assignment4\\Assignment5.csproj": {}
+    "D:\\111 Training\\Code\\Assignment5\\Assignment5.csproj": {}
   },
   "projects": {
-    "D:\\111 Training\\Code\\Assignment4\\Assignment5.csproj": {
+    "D:\\111 Training\\Code\\Assignment5\\Assignment5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\111 Training\\Code\\Assignment4\\Assignment5.csproj",
+        "projectUniqueName": "D:\\111 Training\\Code\\Assignment5\\Assignment5.csproj",
         "projectName": "Assignment5",
-        "projectPath": "D:\\111 Training\\Code\\Assignment4\\Assignment5.csproj",
+        "projectPath": "D:\\111 Training\\Code\\Assignment5\\Assignment5.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\111 Training\\Code\\Assignment4\\obj\\",
+        "outputPath": "D:\\111 Training\\Code\\Assignment5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "System.Collections": {
-              "target": "Package",
-              "version": "[4.3.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

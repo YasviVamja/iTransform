@@ -22,7 +22,8 @@ namespace Assignment5
             get { return _name; }
             set { _name = value; }
         }
-        public override string ToString() {
+        public override string ToString()
+        {
             return "Emp id = " + this.EmployeeID + " \t Emp Name = " + this.Name;
         }
     }
@@ -30,9 +31,9 @@ namespace Assignment5
     {
         public static void MainExecution()
         {
-            Employee emp1= new Employee();
-            Employee emp2= new Employee();
-            Employee emp3= new Employee();
+            Employee emp1 = new Employee();
+            Employee emp2 = new Employee();
+            Employee emp3 = new Employee();
             emp1.EmployeeID = 101;
             emp2.EmployeeID = 102;
             emp3.EmployeeID = 103;
@@ -41,11 +42,11 @@ namespace Assignment5
             emp3.Name = "Employee 3";
 
             Console.WriteLine("ArrayList Used to store Employee object contains:");
-            ArrayList arrayListOfEmp=new ArrayList();
+            ArrayList arrayListOfEmp = new ArrayList();
             arrayListOfEmp.Add(emp1);
             arrayListOfEmp.Add(emp2);
             arrayListOfEmp.Add(emp3);
-            foreach(Employee emp in arrayListOfEmp)
+            foreach (Employee emp in arrayListOfEmp)
             {
                 Console.WriteLine(emp.ToString());
             }

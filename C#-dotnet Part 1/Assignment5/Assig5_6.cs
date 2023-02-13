@@ -10,7 +10,7 @@ namespace Assignment5
 {
     public class Player
     {
-   
+
         public int Run
         {
             get;
@@ -27,7 +27,7 @@ namespace Assignment5
 
         public List<Player> TeamPlayer { get; set; }
 
-        
+
         public TeamClass1()
         {
             TeamPlayer = new List<Player>();
@@ -65,14 +65,14 @@ namespace Assignment5
             Player p1 = new Player() { Name = "Name1", Run = 100 };
             Player p2 = new Player() { Name = "Name2", Run = 50 };
             Player p3 = new Player() { Name = "Name3", Run = 80 };
-            TeamClass1 IndiaTeam=new TeamClass1() { TeamPlayer=new List<Player> { p1,p2,p3} };
+            TeamClass1 IndiaTeam = new TeamClass1() { TeamPlayer = new List<Player> { p1, p2, p3 } };
             Player p4 = new Player() { Name = "Name4", Run = 70 };
             IndiaTeam.TeamPlayer.Add(p4);
 
             Console.WriteLine("Players in Team India .....");
-            foreach(Player p in IndiaTeam)
+            foreach (Player p in IndiaTeam)
             {
-                Console.WriteLine("Nqme:"+p.Name+"\t Run:"+p.Run);
+                Console.WriteLine("Nqme:" + p.Name + "\t Run:" + p.Run);
             }
 
         }

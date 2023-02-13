@@ -13,3 +13,9 @@ D:\111 Training\Code\Assignment6\obj\Debug\net6.0\refint\Assignment6.dll
 D:\111 Training\Code\Assignment6\obj\Debug\net6.0\Assignment6.pdb
 D:\111 Training\Code\Assignment6\obj\Debug\net6.0\Assignment6.genruntimeconfig.cache
 D:\111 Training\Code\Assignment6\obj\Debug\net6.0\ref\Assignment6.dll
+D:\111 Training\Code\Assignment6\bin\Debug\net6.0\Assignment3.deps.json
+D:\111 Training\Code\Assignment6\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+D:\111 Training\Code\Assignment6\bin\Debug\net6.0\Assignment3.exe
+D:\111 Training\Code\Assignment6\bin\Debug\net6.0\Assignment3.dll
+D:\111 Training\Code\Assignment6\bin\Debug\net6.0\Assignment3.pdb
+D:\111 Training\Code\Assignment6\obj\Debug\net6.0\Assignment6.csproj.CopyComplete

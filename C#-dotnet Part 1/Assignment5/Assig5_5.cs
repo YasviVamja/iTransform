@@ -29,7 +29,7 @@ namespace Assignment5
             //var result = list.Where(emp => emp.empName == "TheName");
             Console.Write("Enter a name for search: ");
             string n = Console.ReadLine();
-            var result = empList.FirstOrDefault(emp=>emp.Name==n);
+            var result = empList.FirstOrDefault(emp => emp.Name == n);
             if (result == null)
             {
                 Console.WriteLine("No Employee with this Name....");

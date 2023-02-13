@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Assig6_5.MainExecution();
+            Assig6_1and2.MainExecution();
         }
     }
 }

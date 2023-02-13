@@ -28,11 +28,11 @@ namespace Assignment5
             empList.AddFirst(emp1);
             Console.WriteLine("Added Employee object in Linkedlist...");
             Console.WriteLine("b)Displaying Employee object in Linkedlist...");
-            foreach(Employee emp in empList)
+            foreach (Employee emp in empList)
             {
                 Console.WriteLine("Emp id = {0} \t Emp Name = {1}", emp.EmployeeID, emp.Name);
             }
-            Console.WriteLine("c)Total number of employees in the list:{0}",empList.Count);
+            Console.WriteLine("c)Total number of employees in the list:{0}", empList.Count);
         }
     }
 }

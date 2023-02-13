@@ -21,22 +21,22 @@ namespace Assignment5
             emp2.Name = "Employee 2";
             emp3.Name = "Employee 3";
 
-            Stack<Employee> empStack=new Stack<Employee>();
+            Stack<Employee> empStack = new Stack<Employee>();
             Console.WriteLine("a)Pushing Employee object in Stack....");
             empStack.Push(emp1);
             empStack.Push(emp2);
             empStack.Push(emp3);
-            foreach(Employee emp in empStack )
+            foreach (Employee emp in empStack)
             {
-                Console.WriteLine(emp.ToString()+"\t Count:"+empStack.Count);
+                Console.WriteLine(emp.ToString() + "\t Count:" + empStack.Count);
             }
 
             Console.WriteLine("a)Poping Employee object in Stack....");
             while (empStack.Count > 0)
             {
-                Employee e=empStack.Pop();
+                Employee e = empStack.Pop();
                 Console.WriteLine(e.ToString() + "\t Count:" + empStack.Count);
             }
         }
-        }
+    }
 }

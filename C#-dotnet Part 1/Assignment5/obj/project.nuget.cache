@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1R+zGvlPy6E+h+L+QfMmkOxI4+3kmm8wRXwQIuMWOKMy0eS5c1yBa8B+06dIXruBQxiUShSfZLTvpczBg7PhZQ==",
+  "dgSpecHash": "5Emk1+/q9L+6Ex8y0elp3YwVRaA7WbOjZvb6XchLc2JL+6CgpSf/p+WVNhXnLtg/wInNfTICvnC3l7Hx5OgEcw==",
   "success": true,
-  "projectFilePath": "D:\\111 Training\\Code\\Assignment4\\Assignment5.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\111 Training\\Code\\Assignment5\\Assignment5.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,4 +8,8 @@
     <StartupObject>Assignment6.Program</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Assignment3\Assignment3.csproj" />
+  </ItemGroup>
+
 </Project>
